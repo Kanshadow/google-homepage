@@ -2,8 +2,8 @@ body {
   font-size: 13px;
   background-image: url(../images/tomatina.gif);
   background-repeat: no-repeat;
-  background-position: center 160px;
-  background-size: 30%;
+  background-position: center center;
+  background-size: 630px 245px;
 }
 .navig {
   vertical-align: top;
@@ -41,7 +41,7 @@ body {
 
 section {
   text-align: center;
-  padding-top: 21%;
+  padding-top: 400px;
 }
 input {
   width: 575px;
